@@ -1,7 +1,7 @@
 # meujoguinho :joystick:
 
 ### O projeto:
-Este será um projeto bem simples, utilizado para praticar o desenvolvimento web. Será uma aplicação que fará o controle dos games que um usuário possui, podendo ele fazer a inclusão de novos games, alteração, exclusão e consultas.
+Este será um projeto bem simples, utilizado para praticar o desenvolvimento java web. Será uma aplicação que fará o controle dos games que um usuário possui, podendo ele fazer a inclusão de novos games, alteração, exclusão e consultas.
 O foco não será o layout web, mas sim o desenvolvimento backend, para assimilar os conceitos do crud.
 
 -------
