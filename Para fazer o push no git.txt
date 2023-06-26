@@ -1,0 +1,5 @@
+primeiro:
+$ git push -u https://github.com/vinisaggioratto/mygame.git -f
+
+depois:
+$ git push https://github.com/vinisaggioratto/mygame.git
