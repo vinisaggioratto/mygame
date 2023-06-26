@@ -11,5 +11,6 @@ public class MyGameApplication {
         SpringApplication.run(MyGameApplication.class, args);
 
         System.out.println("Hello world!");
+        System.out.println("Teste de conexao com o github");
     }
 }
