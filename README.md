@@ -10,7 +10,10 @@ Postman
 MySQL
 Lombok
 JPA
+
+
 Progresso de desenvolvimento:
+
 Data	Descrição
 24/06/2023	| Iniciado o projeto. Criado o banco de dados.
 26/06/2023  | Criado o projeto principal
