@@ -1,4 +1,4 @@
-package com.viniciusgs.mygame.service;
+package com.viniciusgs.mygame;
 
 
 import org.springframework.boot.SpringApplication;
